@@ -1,0 +1,67 @@
+{
+  "version": "1.0",
+  "total": 100,
+  "note": "Doce elementos. Puntúa cada uno con honestidad: un puntaje generoso no le sirve a nadie. La mayoría de los perfiles quedan entre 30 y 49 en la primera pasada.",
+  "items": [
+    {
+      "id": "headline",
+      "points": 12,
+      "full_marks": "Dice a quién ayudas y qué cambia para esa persona, lleva una prueba y no es el cargo. Usa los 220 caracteres, no 60."
+    },
+    {
+      "id": "about_open",
+      "points": 10,
+      "full_marks": "Las dos primeras líneas (todo lo que se ve antes de 'ver más') nombran el problema del lector. Nada de 'apasionado por', nada de biografía en tercera persona, nada de empezar con tu propio nombre."
+    },
+    {
+      "id": "about_body",
+      "points": 10,
+      "full_marks": "Escrito para una persona, en segunda persona: su problema, lo que haces, un número como prueba, qué hacer a continuación. Menos de 1400 caracteres."
+    },
+    {
+      "id": "featured",
+      "points": 8,
+      "full_marks": "Tres elementos: el post que mejor funcionó, una prueba y la forma de contactarte. Nada vacío, nada viejo."
+    },
+    {
+      "id": "banner",
+      "points": 6,
+      "full_marks": "Una línea de posicionamiento y una forma de contactarte. No el degradado por defecto, no una foto de archivo de una ciudad."
+    },
+    {
+      "id": "photo",
+      "points": 6,
+      "full_marks": "La cara ocupa más o menos el 60% del cuadro, con los ojos visibles, tomada en los últimos dos años, con un fondo que no distrae."
+    },
+    {
+      "id": "current_role",
+      "points": 10,
+      "full_marks": "Una línea de alcance y luego dos o tres viñetas de resultados con números. Las tareas no son resultados."
+    },
+    {
+      "id": "experience_depth",
+      "points": 8,
+      "full_marks": "Los dos últimos cargos con detalle, y todo lo de hace más de diez años comprimido a una sola línea cada uno."
+    },
+    {
+      "id": "skills",
+      "points": 6,
+      "full_marks": "Las tres primeras aptitudes son las tres por las que quieres que te contraten, y tienen validaciones. Las otras 47 son ruido."
+    },
+    {
+      "id": "recommendations",
+      "points": 8,
+      "full_marks": "Al menos tres recibidas en los últimos dos años, cada una con un resultado específico y no con rasgos de carácter."
+    },
+    {
+      "id": "activity",
+      "points": 10,
+      "full_marks": "Publicó o comentó en los últimos siete días. Un feed de actividad vacío se lee como un perfil abandonado."
+    },
+    {
+      "id": "contact",
+      "points": 6,
+      "full_marks": "URL personalizada, un correo o enlace de reserva que funcione en la información de contacto, y el mismo usuario que en tus otras plataformas."
+    }
+  ]
+}

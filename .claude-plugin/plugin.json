@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-agent-skill-es",
+  "description": "Once skills para Claude que gestionan una cuenta de LinkedIn: posts a partir de 21 fórmulas de ganchos, comentarios, respuestas, puntaje del perfil, plan semanal, DM, bandeja de entrada, carruseles, reutilización de contenido, auditorías y un humanizador que quita la huella de la IA y puntúa el borrador antes de que salga.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "homepage": "https://github.com/aldushmedia/linkedin-agent-skill-es",
+  "repository": "https://github.com/aldushmedia/linkedin-agent-skill-es",
+  "license": "MIT",
+  "keywords": ["linkedin", "content", "writing", "humanizer", "social", "marketing", "espanol"]
+}
